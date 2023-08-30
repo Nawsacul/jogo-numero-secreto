@@ -57,3 +57,7 @@ h3 {
 .btn-jogar:active {
     background-color: #828282;
 }
+
+.perdeu {
+    background: #d21f1f;
+}
